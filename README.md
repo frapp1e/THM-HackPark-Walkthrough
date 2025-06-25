@@ -40,7 +40,6 @@ This repository contains a personal walkthrough of the HackPark room on [TryHack
 
 ## 🧠 Notes
 
-- The walkthrough includes errors and expressions that reflect my current level of English.
 - The goal of this document is not only to show the solution but also my learning journey through each step.
 
 ---
